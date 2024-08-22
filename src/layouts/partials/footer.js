@@ -126,7 +126,7 @@ const Footer = () => {
             </div>
             <div className="col-md-4">
               <div className="copy-txt">
-                <p>Powered By Technology Bench</p>
+                <p>Powered By NOOR MOVERS & PACKERS</p>
               </div>
             </div>
             <div className="col-md-4">
